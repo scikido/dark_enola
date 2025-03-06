@@ -20,6 +20,3 @@ ENV/
 
 # Logs
 *.log
-
-# Data files
-data.json
